@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "abcd",
+      "username": "ab",
+      "email": "thre@gmail.com",
+      "phone": 9876,
+      "website": "abc.org"
+    },
+    {
+      "id": 2,
+      "name": "abcd",
+      "username": "ab",
+      "email": "thre@gmail.com",
+      "phone": 9876,
+      "website": "abc.org"
+    },
+    {
+      "id": 3,
+      "name": "abcd",
+      "username": "ab",
+      "email": "thre@gmail.com",
+      "phone": "98",
+      "website": "abc.org"
+    },
+    {
+      "name": "tyu",
+      "email": "678@gmail.com",
+      "phone": "567890",
+      "id": 4
+    }
+  ]
+}
